@@ -1,16 +1,38 @@
-### Hi there 👋
+Hey there! 👋😃
+I'm Anushka! I'm a Machine Learning and Deep Learning Developer📱, looking to solve real-world problems and implementing existing research🌏. I'm passionate about making open-source more accessible, creating software💻 and tools to help people, and building a community. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day�.
 
-<!--
-**anushka17agarwal/anushka17agarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can conncet with me on:
 
-Here are some ideas to get you started:
+Linkedin:
+Youtube:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Google Playstore
+
+dev_object
+
+💼 Things that I'm currently working on:
+Learning Front-End Web💻 Development
+Learning some vectors drawing🎨 by using Adobe Illustrator.
+Looking forward to take a Flutter📲 course in future.
+🔜
+🌱 Challenges that I’m currently challenging myself:
+Since the world is in the quarantine stage🌏, and I’m having lots of spare time⌚, I decided to take this time focusing on feeding more knowledge📚 to myself. I set a couple of self-challenges in order to push myself more further.🏃
+
+Learn to code👨‍💻 3-4 hours a day with no distraction ( One or two day off a week. )
+Read📰 Dev and UI articles daily
+Workout🏋️‍♂️ 3 days in a row and take a day break
+Avoid spending too much time on Youtube Entertainment☠️
+Adapting the minimalism life style
+🔜
+Languages and Tools: 
+Joykishan's github statsJava Android Studio XML Android
+    
+  
+  
+    C Language
+ 
+
+Thanks for Visiting!😇
+Credit to
+GIPHY for GIFs.
+⭐️ From JoykishanSharma
