@@ -29,10 +29,10 @@ Joykishan's github statsJava Android Studio XML Android
     
   
   
-    C Language
+ Tensorflow, Pytorch, Numpy, YOLO
  
 
 Thanks for Visiting!😇
 Credit to
 GIPHY for GIFs.
-⭐️ From JoykishanSharma
+⭐️ From Anushka Agarwal
